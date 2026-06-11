@@ -1,0 +1,22 @@
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\bin\Debug\net10.0-windows\E-Learning Management System.exe
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\bin\Debug\net10.0-windows\E-Learning Management System.deps.json
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\bin\Debug\net10.0-windows\E-Learning Management System.runtimeconfig.json
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\bin\Debug\net10.0-windows\E-Learning Management System.dll
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\bin\Debug\net10.0-windows\E-Learning Management System.pdb
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form1.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form2.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form3.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Resources.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.vbproj.GenerateResource.cache
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.AssemblyInfoInputs.cache
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.AssemblyInfo.vb
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.dll
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\refint\E-Learning Management System.dll
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.pdb
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E-Learning Management System.genruntimeconfig.cache
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\ref\E-Learning Management System.dll
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form4.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form5.resources
+C:\Users\Henry\source\repos\E-Learning Management System\E-Learning Management System\obj\Debug\net10.0-windows\E_Learning_Management_System.Form6.resources
